@@ -1,0 +1,2 @@
+Adding this new file to the project
+Checking the tracked status of the file.
